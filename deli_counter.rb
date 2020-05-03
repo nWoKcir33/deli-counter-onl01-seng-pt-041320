@@ -1,3 +1,3 @@
 def line(arrays)
-  if arrays 
+  if arrays.length >= 
    
