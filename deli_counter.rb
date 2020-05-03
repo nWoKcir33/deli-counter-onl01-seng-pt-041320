@@ -22,5 +22,6 @@ def line(arrays)
      puts "There is nobody waiting to be served!"
    else
      puts "Currently serving #{arrays[0]}."
+     arrays.shift
    end
  end
