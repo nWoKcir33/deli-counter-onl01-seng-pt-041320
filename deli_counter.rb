@@ -1,4 +1,5 @@
 def line(delis)
-  delis = []
-  if delis > 0 
+  if delis.length == 0 
+    delis.join
+    elsif
    
