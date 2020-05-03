@@ -12,4 +12,4 @@ def line(arrays)
  end
  end
  
- def take_a_number(arrays, name)
+ def take_a_number(line, new_person)
