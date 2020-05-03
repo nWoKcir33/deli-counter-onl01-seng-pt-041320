@@ -21,3 +21,6 @@ def line(arrays)
    if arrays.length == 0 
      puts "There is nobody waiting to be served!"
    else
+     puts "Currently serving #{arrays[0]}."
+   end
+ end
