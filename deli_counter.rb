@@ -16,3 +16,6 @@ def line(arrays)
    line.push(new_person)
    puts "Welcome, #{new_person}. You are number #{line.length} in line."
  end
+ 
+ def now_serving(arrays)
+   if arrays.length
