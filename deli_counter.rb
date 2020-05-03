@@ -1,7 +1,7 @@
-def line(katz_deli)
-  line = []
-  if katz_deli > 0 
-    puts katz_deli.index
+def line(deli)
+  deli = []
+  if deli > 0 
+    puts 
   else
     puts "The line is currently empty."
   end
