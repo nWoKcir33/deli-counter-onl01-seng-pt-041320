@@ -3,5 +3,5 @@ def line(arrays)
     puts "The line is currently empty"
     elsif arrays.length > 2
     arrays[0]prepend "The line is currently: "
-    delis.join
+    delis.join 
    
