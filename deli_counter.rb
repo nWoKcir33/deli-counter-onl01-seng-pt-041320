@@ -18,4 +18,6 @@ def line(arrays)
  end
  
  def now_serving(arrays)
-   if arrays.length
+   if arrays.length == 0 
+     puts "There is nobody waiting to be served!"
+   else
