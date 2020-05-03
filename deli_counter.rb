@@ -1,5 +1,5 @@
-def line
-  katz_deli = []
+def line(katz_deli)
+  line = []
   if katz_deli > 0 
     puts katz_deli.index
   else
