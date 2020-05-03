@@ -2,5 +2,5 @@ def line(arrays)
   if arrays.length >= 1 
     new_array = []
     counter = 1 
-    
+    array.each{|name| new_array << 
    
